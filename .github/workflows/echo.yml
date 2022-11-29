@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        run: echo "hola World!  ${{ secrets.SESSS }}"
+        run: echo "hola World!  ${{ secrets.SE }}"
